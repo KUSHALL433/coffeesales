@@ -1,3 +1,7 @@
+![Screenshot 2024-07-26 162231](https://github.com/user-attachments/assets/9675b0a1-f01e-4269-bb9f-683efb1b2f94)
+
+
+
 Insights of the project
 
 "Analyzed and reported on sales data resulting in a total sales revenue of $698.81K across 3 key locations."
